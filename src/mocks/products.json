@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "name": "Product 4",
+    "description": "Product 4 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "name": "Product 5",
+    "description": "Product 5 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "name": "Product 6",
+    "description": "Product 6 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "category_id": 2,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 8,
+    "category_id": 2,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 9,
+    "category_id": 2,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 10,
+    "category_id": 2,
+    "name": "Product 4",
+    "description": "Product 4 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 11,
+    "category_id": 2,
+    "name": "Product 5",
+    "description": "Product 5 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 12,
+    "category_id": 2,
+    "name": "Product 6",
+    "description": "Product 6 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 13,
+    "category_id": 3,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 14,
+    "category_id": 3,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 15,
+    "category_id": 3,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 16,
+    "category_id": 3,
+    "name": "Product 4",
+    "description": "Product 4 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 17,
+    "category_id": 3,
+    "name": "Product 5",
+    "description": "Product 5 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 18,
+    "category_id": 3,
+    "name": "Product 6",
+    "description": "Product 6 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 19,
+    "category_id": 4,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 20,
+    "category_id": 4,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 21,
+    "category_id": 4,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 22,
+    "category_id": 4,
+    "name": "Product 4",
+    "description": "Product 4 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 23,
+    "category_id": 4,
+    "name": "Product 5",
+    "description": "Product 5 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 24,
+    "category_id": 4,
+    "name": "Product 6",
+    "description": "Product 6 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 25,
+    "category_id": 5,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 26,
+    "category_id": 5,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 27,
+    "category_id": 5,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 28,
+    "category_id": 5,
+    "name": "Product 4",
+    "description": "Product 4 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 29,
+    "category_id": 5,
+    "name": "Product 5",
+    "description": "Product 5 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 30,
+    "category_id": 5,
+    "name": "Product 6",
+    "description": "Product 6 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 31,
+    "category_id": 6,
+    "name": "Product 1",
+    "description": "Product 1 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 32,
+    "category_id": 6,
+    "name": "Product 2",
+    "description": "Product 2 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  },
+  {
+    "id": 33,
+    "category_id": 6,
+    "name": "Product 3",
+    "description": "Product 3 description",
+    "image_url": "https://via.placeholder.com/144",
+    "price": 100
+  }
+]
