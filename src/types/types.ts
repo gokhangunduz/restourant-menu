@@ -1,6 +1,17 @@
+type IuseSidebar = {
+  isOpen: boolean;
+  setIsOpen: any;
+};
+
 type IuseData = {
+  restourant: IRestourant;
   categories: ICategories;
   products: IProducts;
+};
+
+type IRestourant = {
+  name: string;
+  currency: string;
 };
 
 type ICategories = ICategory[];

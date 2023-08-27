@@ -9,7 +9,7 @@ export default function MenuPage(): ReactElement {
   const { categories } = useData();
 
   return (
-    <div className="grid grid-cols-1 gap-12">
+    <div className="grid grid-cols-1 gap-6">
       {categories?.map((category: ICategory) => {
         return <CategoriesLayout key={category.id} category={category} />;
       })}

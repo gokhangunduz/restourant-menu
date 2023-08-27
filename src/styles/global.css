@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-light {
+  @apply text-slate-400;
+}
+
+.text-medium {
+  @apply text-slate-500;
+}
+
+.text-dark {
+  @apply text-slate-700;
+}
+
+.text-darker {
+  @apply text-slate-800;
+}
